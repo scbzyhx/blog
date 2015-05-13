@@ -10,7 +10,10 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'zhs'
+
+THEME = 'pelican-themes/elegant'
+DISQUS_SITENAME = 'yhx'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

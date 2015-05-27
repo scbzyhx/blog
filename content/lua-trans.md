@@ -1,4 +1,4 @@
-Title: AWK 教程
+Title: Lua 教程
 Date: 2015-05-27
 Modified:2015-05-27
 Category: 翻译
